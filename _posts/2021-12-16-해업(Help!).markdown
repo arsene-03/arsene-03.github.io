@@ -20,6 +20,12 @@ tags:   Project
 
 ![]({{ site.baseurl }}/images/06_1.png)
 
-### 시연영상
+## 🎥 시연영상
 
-[](https://www.youtube.com/watch?v=ZGwKJ7d70W0&ab_channel=HonangeM)
+[시연영상][Help_youtube]
+
+##  github
+<a href="https://github.com/arsene-03/projectHELP"><i class="ion ion-logo-github"></i></a>
+
+
+[Help_youtube]: https://www.youtube.com/watch?v=ZGwKJ7d70W0&ab_channel=HonangeM
