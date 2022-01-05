@@ -1,0 +1,29 @@
+---
+layout: post
+title:  지혜의숲 도서관
+date:   2021-11-20 18:05:55 +0300
+image:  10.jpg
+tags:   project
+---
+## 🏛지혜의 숲 도서관
+
+* 지혜의 도서관의 소개와 홍보를 위한 웹사이트
+* 도서관과 이용자간의 소통을 위한 게시판 기능 구축
+
+* * *
+## 💫 기능
+
+* 도서관 위치, 편의시설등 도서관 물리적 서비스 소개
+* 이벤트, 공지사항 등 도서관 정보 서비스 제공
+* 이용자와 도서관간 원활한 의사소통을 위한 게시판 서비스 제공
+
+* * *
+## 📱 화면구성
+
+![]({{ site.baseurl }}/images/10_1.png)
+![]({{ site.baseurl }}/images/10_2.png)
+![]({{ site.baseurl }}/images/10_3.png)
+
+* * *
+## 😺 github
+* <a href="https://github.com/arsene-03/LibraryProject">github 바로가기</a>
