@@ -4,10 +4,34 @@ title: About
 permalink: /about/
 image: 01-1.jpeg
 ---
-
-Hi, my name is Alex Rodriguez. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+#### 🔗 ABOUT ME
+이름 생년월일 주소지 연락처 이메일
 
 ***
+#### 🔗 SKIILS
+front-end
+*HTML
+*CSS
+*JS
+
+Back-end
+*java
+
+Database
+*OracleDB
+*MariaDB
+
+Version Control
+*git
+*github
+
+Communication 
+*Figma
+*Gatter
+*notion
+
+Certification(자격증)
+*정보처리산업기사(필기+실기)
 
 #### Austin scenester...
 <small>2008 - 2018</small>
